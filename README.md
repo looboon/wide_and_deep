@@ -6,8 +6,10 @@ The dataset used is [Census Income Dataset](https://archive.ics.uci.edu/ml/datas
 Many thanks to [ichuang](https://github.com/ichuang/tflearn_wide_and_deep) for which I referenced greatly when I was coding the network.
 
 <h2>Model</h2>
-The wide and deep model is a model that attempts to combine memorization (using the wide model) as well as generalization (using the deep model) to create a model that can generalize well as well as give the surprise me moment as per its original intention for app recommendations. 
+The wide and deep model (see below) is a model that attempts to combine memorization (using the wide model) as well as generalization (using the deep model) to create a model that can generalize well as well as give the surprise me moment as per its original intention for app recommendations. 
 
+![wide and deep](https://github.com/looboon/wide_and_deep/blob/master/images/wide_and_deep.png)
 
+To be continued.
 
 
